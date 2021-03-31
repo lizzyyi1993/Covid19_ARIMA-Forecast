@@ -9,4 +9,4 @@ The purpose of this project is to use ARIMA models to forecast COVID-19 cases an
 3. Average the forecasts from the best model and the few good ones from the subset of alternative models
 
 ## Results
-Results are shown in the csv file.
+Results are shown in the xls file.
