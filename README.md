@@ -1,4 +1,4 @@
-# Covid19_ARIMA-Forecast
+# Covid19 ARIMA Forecast
 
 ## Objectives
 The purpose of this project is to use ARIMA models to forecast COVID-19 cases and death for North Carolina, North Dakota, Nevada, New Hampshire, and New Jersey from 2/11/2021 to 3/12/2021
